@@ -28,7 +28,7 @@ const Page = () => {
        return country.name.official.toLowerCase().includes(inputValue.toLowerCase())
   });
 
-
+   
 
   return (
     <div>
